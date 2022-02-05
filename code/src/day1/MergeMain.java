@@ -70,6 +70,8 @@ public class MergeMain {
 		int[] arr1 = new int[n1];
 		int[] arr2 = new int[n2];
 		
+		// arr1 and arr2 must be sorted arrays themselves
+		
 		for(int i = 0 ; i < n1; i++) {
 			arr1[i] = scanner.nextInt();
 		}
