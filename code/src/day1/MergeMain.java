@@ -10,7 +10,7 @@ import java.util.Arrays;
  * @author durga prasad
  *
  */
-public class Main {
+public class MergeMain {
 
 	
 	public static int[] mergeSortedArrays(int[] a1, int[] a2) {
