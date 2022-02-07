@@ -6,4 +6,4 @@ ds &amp; algos
    - [Array rotation](https://github.com/dpgithubRepo/code/blob/main/code/src/day1/RotateMain.java)
 
 **Day 1** 
-   - [2d array spiral display] (https://github.com/dpgithubRepo/code/blob/main/code/src/day2/ArraySpiralDisplay.java)
+   - [2d array spiral display](https://github.com/dpgithubRepo/code/blob/main/code/src/day2/ArraySpiralDisplay.java)
