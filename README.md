@@ -7,3 +7,4 @@ ds &amp; algos
 
 **Day 1** 
    - [2d array spiral display](https://github.com/dpgithubRepo/code/blob/main/code/src/day2/ArraySpiralDisplay.java)
+   - [fibonacci using recursion, iteration & Dynamic Programming](https://github.com/dpgithubRepo/code/blob/main/code/src/day2/Fibonacci.java)
