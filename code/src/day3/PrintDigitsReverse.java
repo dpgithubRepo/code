@@ -29,8 +29,10 @@ public class PrintDigitsReverse {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int n = scanner.nextInt();
-		printRecursive(n);
-		printIterative(n);
 		scanner.close();
+		printRecursive(n);
+		System.out.println("......");
+		printIterative(n);
+		
 	}
 }
