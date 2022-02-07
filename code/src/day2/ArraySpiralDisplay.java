@@ -2,6 +2,9 @@ package day2;
 import java.util.Scanner;
 /**
  * given a 2d array, iterate spirally and display the elements
+ * 
+ * @author durga prasad
+ * 
  */
 public class ArraySpiralDisplay {
 
@@ -14,7 +17,7 @@ public class ArraySpiralDisplay {
 		int minC = 0;
 		int maxR = l1 - 1;
 		int maxC = l2 - 1;
-		while(count < total_elements) {
+		while(count < total_elements) {  //until all the elements are displayed
 			
 			//left border
 			for(int i = minR, j = minC;  i <= maxR && count < total_elements; i++) {
