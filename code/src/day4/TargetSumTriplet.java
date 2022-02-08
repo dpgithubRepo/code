@@ -12,11 +12,13 @@ import java.util.Scanner;
 public class TargetSumTriplet {
 	
 	
-	public static void printTriplets(int[] arr, int target) {
+	public static void printTriplets(int[] arr, int target) { //O(nlogn) + O(n^2) = O(n^2)
 		
-		Arrays.sort(arr);
+		Arrays.sort(arr); //nlogn 
 		
-		for(int i = 0; i < arr.length; i++) {
+		
+		//n2
+		for(int i = 0; i < arr.length; i++) { 
 			
 			int left = i +1 ;
 			int right = arr.length - 1;
