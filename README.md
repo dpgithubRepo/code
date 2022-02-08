@@ -13,4 +13,8 @@ ds &amp; algos
    - [print digits in reverse recursion, iterative](https://github.com/dpgithubRepo/code/blob/main/code/src/day3/PrintDigitsReverse.java)
    - [print digits recursion, iterative](https://github.com/dpgithubRepo/code/blob/main/code/src/day3/PrintDigits.java)
 
+**Day 4** 
+   - [prime generator sieveofEratosthenes](https://github.com/dpgithubRepo/code/blob/main/code/src/day4/PrimeGenerator.java)
+   - [Sieve of Eratosthenes wiki](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+   
 
