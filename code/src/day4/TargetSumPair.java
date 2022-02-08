@@ -18,7 +18,7 @@ public class TargetSumPair {
 		int right = arr.length-1;
 	    boolean targetFound = false;
 	    
-		while(left <= right) {
+		while(left < right) {
 			int sum = arr[left] + arr[right];
 			if(sum == target) {
 				System.out.println("tartget pair  = [" + arr[left] + " , "+ arr[right] +" ]" );
