@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * 
- * given an unsorted array check if any duplicates with nlogn
+ * given an unsorted array of positive integers check if any duplicates with nlogn
  * 
  * @author durga prasad
  *
