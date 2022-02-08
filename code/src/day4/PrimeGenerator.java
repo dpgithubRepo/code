@@ -12,10 +12,11 @@ import java.util.Scanner;
 public class PrimeGenerator {
 
 	public static boolean isPrime(int n) {
-		if(n == 1 || n == 0 ) return false;
+		if (n == 1 || n == 0)
+			return false;
 		boolean isPrime = true;
-		for(int i = 2; i * i <= n; i++) {
-			if(n % i == 0) {
+		for (int i = 2; i * i <= n; i++) {
+			if (n % i == 0) {
 				isPrime = false;
 				break;
 			}
@@ -23,45 +24,43 @@ public class PrimeGenerator {
 		return isPrime;
 	}
 
-	public static void printPrimes(int n ) {
-		for(int i = 2; i <= n ;i++) {
-			if(isPrime(i)) {
+	public static void printPrimes(int n) {
+		for (int i = 2; i <= n; i++) {
+			if (isPrime(i)) {
 				System.out.println(i);
 			}
 		}
 	}
 
-	
-	//https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
+	// https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes
 	public static void sieveofEratosthenes(int n) {
-		boolean[] primes = new boolean[n+1];
+		boolean[] primes = new boolean[n + 1];
 
-		for(int i = 2; i * i < primes.length; i++ ) {
-			if(!primes[i]) {
-				for(int j = i; i * j < primes.length; j++ ) {
+		for (int i = 2; i * i < primes.length; i++) {
+			if (!primes[i]) {
+				for (int j = i; i * j < primes.length; j++) {
 					primes[i * j] = true;
 				}
 			}
 		}
-		
-		for(int i = 2; i < primes.length; i++) {
-			if(!primes[i]) {
+
+		for (int i = 2; i < primes.length; i++) {
+			if (!primes[i]) {
 				System.out.println(i);
 			}
 		}
 	}
 
-
 	public static void main(String[] args) {
-		
+
 		Scanner scanner = new Scanner(System.in);
-	    int n = scanner.nextInt();
-	    scanner.close();
-	    
+		int n = scanner.nextInt();
+		scanner.close();
+
 		printPrimes(n);
-		
+
 		System.out.println(".......");
-		
+
 		sieveofEratosthenes(n);
 
 	}
