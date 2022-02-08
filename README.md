@@ -16,5 +16,6 @@ ds &amp; algos
 **Day 4** 
    - [prime generator sieveofEratosthenes](https://github.com/dpgithubRepo/code/blob/main/code/src/day4/PrimeGenerator.java)
    - [Sieve of Eratosthenes wiki](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
+   - [check if duplicate in array - level 1 easy](https://github.com/dpgithubRepo/code/blob/main/code/src/day4/CheckDuplicate.java)
    
 
