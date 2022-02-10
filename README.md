@@ -20,4 +20,5 @@ ds &amp; algos
    - [find target sum pair in an array - 2 pointer approach O(nlogn)](https://github.com/dpgithubRepo/code/blob/main/code/src/day4/TargetSumPair.java)
    - [find target sum truplet in an array](https://github.com/dpgithubRepo/code/blob/main/code/src/day4/TargetSumTriplet.java)
    
-
+**Day 4** 
+   - [Sudoku- recursion & backtracking](https://github.com/dpgithubRepo/code/blob/main/code/src/day5/SudokuBoard.java)
