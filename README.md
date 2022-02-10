@@ -2,8 +2,8 @@
 ds &amp; algos
 
  **Day 1** 
-   - [Merge 2 sorted arrays ](https://github.com/dpgithubRepo/code/blob/main/code/src/day1/MergeMain.java)
-   - [Array rotation](https://github.com/dpgithubRepo/code/blob/main/code/src/day1/RotateMain.java)
+   - [merge 2 sorted arrays ](https://github.com/dpgithubRepo/code/blob/main/code/src/day1/MergeMain.java)
+   - [array rotation](https://github.com/dpgithubRepo/code/blob/main/code/src/day1/RotateMain.java)
 
 **Day 2** 
    - [2d array spiral display](https://github.com/dpgithubRepo/code/blob/main/code/src/day2/ArraySpiralDisplay.java)
@@ -21,4 +21,4 @@ ds &amp; algos
    - [find target sum truplet in an array](https://github.com/dpgithubRepo/code/blob/main/code/src/day4/TargetSumTriplet.java)
    
 **Day 4** 
-   - [Sudoku- recursion & backtracking](https://github.com/dpgithubRepo/code/blob/main/code/src/day5/SudokuBoard.java)
+   - [sudoku- recursion & backtracking](https://github.com/dpgithubRepo/code/blob/main/code/src/day5/SudokuBoard.java)
