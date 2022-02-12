@@ -22,3 +22,10 @@ ds &amp; algos
    
 **Day 4** 
    - [sudoku- recursion & backtracking](https://github.com/dpgithubRepo/code/blob/main/code/src/day5/SudokuBoard.java)
+
+**Day 5** 
+   - [Merge Sort](https://github.com/dpgithubRepo/code/blob/main/code/src/day6/MergeSort.java)
+
+
+
+
