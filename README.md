@@ -20,11 +20,14 @@ ds &amp; algos
    - [find target sum pair in an array - 2 pointer approach O(nlogn)](https://github.com/dpgithubRepo/code/blob/main/code/src/day4/TargetSumPair.java)
    - [find target sum truplet in an array](https://github.com/dpgithubRepo/code/blob/main/code/src/day4/TargetSumTriplet.java)
    
-**Day 4** 
+**Day 5** 
    - [sudoku- recursion & backtracking](https://github.com/dpgithubRepo/code/blob/main/code/src/day5/SudokuBoard.java)
 
-**Day 5** 
+**Day 6** 
    - [Merge Sort](https://github.com/dpgithubRepo/code/blob/main/code/src/day6/MergeSort.java)
+
+**Day 7** 
+   - [subsequence of a string](https://github.com/dpgithubRepo/code/blob/main/code/src/day7/SubSequence.java)
 
 
 
