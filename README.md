@@ -28,7 +28,7 @@ ds &amp; algos
 
 **Day 7** 
    - [subsequence of a string](https://github.com/dpgithubRepo/code/blob/main/code/src/day7/SubSequence.java)
-   - [Color Sort - Dutch National Flag Algo :: Leetcode](https://github.com/dpgithubRepo/code/blob/main/code/src/day7/SortColors.java)
+   - [color sort - dutch national flag algo :: leetcode](https://github.com/dpgithubRepo/code/blob/main/code/src/day7/SortColors.java)
 
 
 
