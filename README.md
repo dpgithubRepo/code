@@ -31,6 +31,7 @@ ds &amp; algos
    - [color sort - dutch national flag algo :: leetcode](https://github.com/dpgithubRepo/code/blob/main/code/src/day7/SortColors.java)
    - [rotate image :: leetcode](https://github.com/dpgithubRepo/code/blob/main/code/src/day7/RotateImage.java)
 
-
+**Day 8** 
+ - [find twice appearing elements in an array](https://github.com/dpgithubRepo/code/blob/main/code/src/day8/FindDuplicate.java)
 
 
