@@ -33,5 +33,5 @@ ds &amp; algos
 
 **Day 8** 
  - [find twice appearing elements in an array](https://github.com/dpgithubRepo/code/blob/main/code/src/day8/FindDuplicate.java)
-
+ - [wave array - odd index less values than neighboring even index values](https://github.com/dpgithubRepo/code/blob/main/code/src/day8/WaveArray.java)
 
